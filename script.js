@@ -34,7 +34,6 @@ AVISO!!! AVISO!!!
 // Veja Aula 52, parte 2
 // (Observação, a Etapa 2 será feita no arquivo SpeakHello.js.)
 (function (window) {
-  var names = [];
   var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 // PASSO 10: (NADA A FAZER. JÁ FEITO PARA VOCÊ)
